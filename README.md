@@ -18,7 +18,11 @@ The project allows users to share tech news articles in order to have a centrali
 
 ## How users can get started with the project
 
-Simply navigate to the deployed version of the application listed beow to interact with it.
+Simply navigate to the deployed version of the application listed beow to interact with it. You can go through the registration process or you can use the following guest credentials to log in and interact with the application.
+
+Email: test@test.com
+
+Password: testpassword1
 
 https://cc-java-api-3.herokuapp.com/
 
