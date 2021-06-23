@@ -28,6 +28,7 @@ https://cc-java-api-3.herokuapp.com/
 
 ## What technologies were used with the project
 
+* Java
 * Spring
 * Spring-Boot
 * Spring-Initializr
